@@ -1,2 +1,2 @@
-# Programming-with-Google-GO-Specialization
+# Programming-with-Google-Go-Specialization
 Programming assignments for Google Go specialization
